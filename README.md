@@ -4,10 +4,10 @@ Combat deceptive website design and empower your online experience with CoDark, 
 Developed by:
 
 1. Shaurya Vardhan Mishra
-2. Nihal Patidar
+2. Astha Nayak
 3. Yagyadeep Ahirwar
 4. Vivek Vaibhav
-5. Astha Nayak
+5. Krish Gupta
 
 **Protect Yourself from Dark Patterns:**
 
